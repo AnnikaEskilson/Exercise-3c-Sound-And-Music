@@ -14,8 +14,8 @@ Move the paddle using the W and A. Help the ball break all the bricks before you
 Built using Unity 2022.3.45f
 
 ## References
- * [](https://sfbgames.itch.io/chiptone)
- * [](https://www.soundtrap.com/studio/YBXhh8uARpWiuuNaS73Kaw/)
+ * (https://sfbgames.itch.io/chiptone)
+ * (https://www.soundtrap.com/studio/YBXhh8uARpWiuuNaS73Kaw/)
  * [Puzzle Pack 2, provided by kenney.nl](https://kenney.nl/assets/puzzle-pack-2)
  * [Open Color open source color scheme](https://yeun.github.io/open-color/)
  * [League Gothic Typeface](https://www.theleagueofmoveabletype.com/league-gothic)
